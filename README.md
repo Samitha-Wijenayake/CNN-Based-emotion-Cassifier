@@ -1,15 +1,15 @@
 # 🧠 CNN-Based Emotion Classifier
 
-An end-to-end Machine Learning project showcasing a **Custom Deep Convolutional Neural Network (CNN)** for binary image classification. 
+A Machine Learning project showcasing a **Custom Deep Convolutional Neural Network (CNN)** for binary image classification. 
 The project allows users to classify images of faces into two distinct emotions: **Happy** or **Sad**.
 
 ## 🚀 Project Overview
 
-This project goes through the entire deep learning lifecycle—from data collection and processing up to deploying a fully functioning web application. The core engine is a custom CNN architecture, trained completely from scratch without transfer learning.
+This project goes through the entire deep learning lifecycle from data collection and processing up to deploying a fully functioning web application. The core engine is a custom CNN architecture, trained completely from scratch without transfer learning.
 
 ### ✨ Key Features
 * **Custom Architecture**: Built iteratively from the ground up using Keras Sequential API.
-* **Interactive UI**: A beautiful, user-friendly frontend built with **Streamlit**.
+* **Interactive UI**: A beautiful, user friendly frontend built with **Streamlit**.
 * **Real-time Inference**: Drag and drop any `.jpg` or `.png` face and get instant predictions with confidence scores.
 * **Automatic Image Reformatting**: Handles missing alpha channels and resizes user input to exactly match the `256x256x3` required shape.
 
