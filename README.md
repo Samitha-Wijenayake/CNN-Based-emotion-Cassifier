@@ -3,12 +3,6 @@
 An end-to-end Machine Learning project showcasing a **Custom Deep Convolutional Neural Network (CNN)** for binary image classification. 
 The project allows users to classify images of faces into two distinct emotions: **Happy** or **Sad**.
 
-![App Screenshot](https://img.shields.io/badge/Status-Live%20Application-success)
-![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange)
-![UI](https://img.shields.io/badge/UI-Streamlit-red)
-
----
-
 ## 🚀 Project Overview
 
 This project goes through the entire deep learning lifecycle—from data collection and processing up to deploying a fully functioning web application. The core engine is a custom CNN architecture, trained completely from scratch without transfer learning.
