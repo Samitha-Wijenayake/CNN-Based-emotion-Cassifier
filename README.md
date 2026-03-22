@@ -53,4 +53,4 @@ This prototype classifies images into two states effectively, but as it was trai
 * Cartoons or drawings (trained strictly on human faces)
 * Extreme lighting, shadows, or heavily crowded photos.
 
-*Built with ❤️ taking concepts from Computer Vision and Deep Learning.*
+
